@@ -13,5 +13,4 @@ The project includes **data preprocessing, exploratory data analysis (EDA), SMOT
 - **Evaluation metrics**: accuracy, precision, recall, specificity, balanced accuracy, F1-score
 
 ##  Files
-- `requirements.txt` – dependencies required to run the project
   datasete, you can download it from [Kaggle: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
